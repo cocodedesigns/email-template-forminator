@@ -18,7 +18,7 @@
       }
 
       body {
-        background-color: #800;
+        background-color: #080;
         font-family: sans-serif;
         -webkit-font-smoothing: antialiased;
         font-size: 14px;
@@ -45,7 +45,7 @@
       ------------------------------------- */
 
       .body {
-        background-color: #800;
+        background-color: #080;
         width: 100%; 
       }
 
@@ -241,7 +241,7 @@
 
       hr {
         border: 0;
-        border-bottom: 1px solid #800;
+        border-bottom: 1px solid #080;
         margin: 20px 0; 
       }
 
@@ -333,7 +333,7 @@
     </style>
   </head>
   <body>
-    <span class="preheader">This is preheader text. Some admin will show this text as a preview.</span>
+    <span class="preheader">This is preheader text. Some clients will show this text as a preview.</span>
     <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="body">
       <tr>
         <td>&nbsp;</td>
@@ -349,7 +349,7 @@
                   <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                     <tr>
                       <td>
-                        <p>Hi there,</p>                       
+                        <p>Hello there,</p>                       
                         {msg}
                       </td>
                     </tr>
